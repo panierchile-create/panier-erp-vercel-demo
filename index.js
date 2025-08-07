@@ -1,8 +1,8 @@
 export default function Home() {
   return (
-    <div style={{ fontFamily: 'Arial', padding: '2rem' }}>
-      <h1>Bienvenido al Demo del Dashboard de Panier ERP</h1>
-      <p>Este es un prototipo funcional inicial desplegable en Vercel.</p>
+    <div style={{ fontFamily: 'Arial', textAlign: 'center', padding: '50px' }}>
+      <h1>Panier ERP Assistant – Demo</h1>
+      <p>¡Tu dashboard inteligente está en camino!</p>
     </div>
   );
 }

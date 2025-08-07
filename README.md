@@ -1,3 +1,3 @@
-# Panier ERP - Demo en Vercel
+# Panier ERP Assistant – Demo
 
-Este proyecto es una demo funcional del dashboard de Panier ERP.
+Este proyecto es una demo funcional para desplegar en Vercel utilizando Next.js.
